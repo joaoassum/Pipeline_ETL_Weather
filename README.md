@@ -180,12 +180,6 @@ Algumas evoluções possíveis para o projeto:
 - Integração com ferramentas de CI/CD.
 - Desenvolvimento de um dashboard no Power BI para visualizar tendências meteorológicas.
 
-## 👨‍💻 Autor
-
-**João Assum**
-
-[GitHub](https://github.com/joaoassum)
-
 ---
 
 *Projeto desenvolvido como parte dos estudos em Engenharia de Dados, com foco em extração, transformação, armazenamento e orquestração de dados.*
